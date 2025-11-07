@@ -52,6 +52,7 @@ pip uninstall ffmpeg
 pip install spacy
 python -m spacy download en_core_web_sm
 pip install git+https://github.com/openai/CLIP.git
+pip install gdown
 ```
 
 Download dependencies:
